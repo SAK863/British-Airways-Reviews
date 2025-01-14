@@ -4,7 +4,9 @@
 This report provides an in-depth analysis of customer reviews for British Airways, focusing on various aspects of the passenger experience. Insights into seat comfort, service quality, and traveler preferences are derived from data spanning March 2016 to October 2023.
 
 Key Metrics
+
 Average Overall Rating: 4.2
+
 Cabin Staff Service Rating: 3.3
 Entertainment Rating: 1.4
 Food and Beverages Rating: 2.4
